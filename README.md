@@ -12,3 +12,5 @@ Nesse projeto contém método get para retornar o valor da chave o qual esta ass
 
 No Projeto1 faço insigth badeados nos custumes do comportamento dos clientes. 
 Utlizo as biblioteca pandas para manipilar os dados, numpy para operações matemáticas, lógicas e estatísticas, matplolib.pyplot para criar gráficos .
+
+Desenvolvi um sistema de cadastro ainda no começo do projeto. Esse sistema cadastra o usuário no banco de dados SQLite. Optei por esse bd pois é mais leve. Inicialmente os dados a serem inseridos serão nome e idade. Ao cadastrar, sistema armazenará os dados do usuário.
